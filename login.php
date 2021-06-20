@@ -1,7 +1,7 @@
 <?php
 	$title = "Login";
 	require_once 'inc/header.inc.php';
-	include_once 'inc/dbh.inc.php';
+	include_once 'inc/dbho.inc.php';
 ?>
 <?php
 	//If data was submitted via a form POST request, then...
