@@ -59,8 +59,8 @@
 									Requests
 								</a>
 								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								  <a class="dropdown-item" href="request_new">New Request</a>
-								  <a class="dropdown-item" href="request_manage">Manage Requests</a>
+								  <a class="dropdown-item" href="request_new.php">New Request</a>
+								  <a class="dropdown-item" href="request_manage.php">Manage Requests</a>
 								</div>
 							</li>
 							</ul>
@@ -84,8 +84,8 @@
 									Requests
 								</a>
 								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								  <a class="dropdown-item" href="request_new">New Request</a>
-								  <a class="dropdown-item" href="request_manage">Manage Requests</a>
+								  <a class="dropdown-item" href="request_new.php">New Request</a>
+								  <a class="dropdown-item" href="request_manage.php">Manage Requests</a>
 								</div>
 							</li>
 							<li class="nav-item dropdown">
