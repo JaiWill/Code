@@ -1,7 +1,7 @@
 <?php
 	$title = "PTS - Update User";
 	require_once 'inc/header.inc.php';
-	include_once 'inc/dbh.inc.php';
+	include_once 'inc/dbho.inc.php';
 ?>
 <div class = "container">
 	<h1>Update User Info</h1><hr>
