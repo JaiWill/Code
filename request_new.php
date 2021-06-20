@@ -1,7 +1,7 @@
 <?php
 	$title = "PTS - New Request";
 	require_once 'inc/header.inc.php';
-	include_once 'inc/dbho.inc.php';
+	include_once 'inc/dbh.inc.php';
 	include 'insert.php';
 	
 	function fill_requester_select_box($conn)
